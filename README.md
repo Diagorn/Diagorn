@@ -1,7 +1,7 @@
 # Hi, I'm Michael Gasin
 
 ## About Me
-A Java and Kotlin developer passionate about robust backend systems. I focus on clean architecture, performance optimization, and maintainable code. When not coding for money, I build personal projects for education purposes and for fun.
+A Java/Kotlin developer passionate about robust backend systems. I focus on clean architecture, performance optimization, and maintainable code. When not coding for money, I build personal projects for education purposes and for fun.
 
 ## Skills
 - **Languages:** Java (8–21), Kotlin, SQL
