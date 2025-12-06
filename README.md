@@ -24,8 +24,7 @@ A Java and Kotlin developer passionate about robust backend systems. I focus on 
    - Database migrations
    - WebFlux
    - WebSocket integration
-   - S3 integration
-   <br/>
+   - S3 integration  
    *Technologies:* Java 17, Spring Boot 3, PostgreSQL, Redis  <br>
    *[Repository](https://github.com/Diagorn/Sparkathon)*
 
