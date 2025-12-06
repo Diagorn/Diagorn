@@ -46,14 +46,18 @@ A Java and Kotlin developer passionate about robust backend systems. I focus on 
 
 ## Experience
 - **Senior Java Developer** at FORS Development Center, 2021–2025
-    - Led migration from Java 8 to 17, reducing memory usage by 30%.
-    - Designed REST APIs for a high‑traffic e‑commerce platform (10K+ requests/minute).
+    - Led zero-to-prod development of a GovTech system.
+    - Designed architecture for 8+ microservices.
+    - Implemented 15+ Camunda processes.
+    - Supervised 20+ Integration Tests against different systems.
+    - Completed onboarding, performed code reviews, mentored 2 Java Middle devs.
+    - Optimised processes inside team for zero-bug policy and development efficiency.
 
-- **Android Developer Intern** at [Company Name], 2021
-    - Developed 5+ UI components in Jetpack Compose for a news aggregator app.
+- **Java Developer** at T-Bank, 2025-Present
+    - *Yet to be filled...*
 
 ## Contact Me
-- Telegram (preferrably): [@GasinMA](https://t.me/GasinMA)
+- Telegram (preferably): [@GasinMA](https://t.me/GasinMA)
 - Email: [gasinma@yandex.ru](mailto:gasinma@yandex.ru)
 - GitHub: [github.com/Diagorn](https://github.com/Diagorn)
 - GetMentor: [Profile](https://getmentor.dev/mentor/mihail-gasin-6235)
