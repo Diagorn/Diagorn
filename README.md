@@ -25,8 +25,9 @@ A Java and Kotlin developer passionate about robust backend systems. I focus on 
    - WebFlux
    - WebSocket integration
    - S3 integration  
-   *Technologies:* Java 17, Spring Boot 3, PostgreSQL, Redis  <br>
-   *[Repository](https://github.com/Diagorn/Sparkathon)*
+
+  *Technologies:* Java 17, Spring Boot 3, PostgreSQL, Redis  <br>
+  *[Repository](https://github.com/Diagorn/Sparkathon)*
 
 2. **SQL Trainer**  
    A Kotlin‑based fullstack application for learning SQL with testing system.  
