@@ -26,7 +26,7 @@ A Java and Kotlin developer passionate about robust backend systems. I focus on 
    - WebSocket integration
    - S3 integration
    <br/>
-   *Technologies:* Java 17, Spring Boot 3, PostgreSQL, Redis  
+   *Technologies:* Java 17, Spring Boot 3, PostgreSQL, Redis  <br>
    *[Repository](https://github.com/Diagorn/Sparkathon)*
 
 2. **SQL Trainer**  
